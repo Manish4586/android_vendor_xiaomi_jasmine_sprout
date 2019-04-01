@@ -2028,5 +2028,6 @@ PRODUCT_PACKAGES += \
     SVIService \
     TimeService \
     colorservice \
+    FingerprintExtensionService \
     com.qti.snapdragon.sdk.display \
     chargeonlymode
