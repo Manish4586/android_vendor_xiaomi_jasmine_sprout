@@ -892,6 +892,24 @@ dex_import {
 	system_ext_specific: true,
 }
 
+dex_import {
+	name: "QPerformance",
+	owner: "qcom",
+	jars: ["proprietary/system/framework/QPerformance.jar"],
+}
+
+dex_import {
+	name: "QXPerformance",
+	owner: "qcom",
+	jars: ["proprietary/system/framework/QXPerformance.jar"],
+}
+
+dex_import {
+	name: "UxPerformance",
+	owner: "qcom",
+	jars: ["proprietary/system/framework/UxPerformance.jar"],
+}
+
 prebuilt_etc_xml {
 	name: "vendor.qti.hardware.servicetracker@1.2-service.xml",
 	owner: "xiaomi",
