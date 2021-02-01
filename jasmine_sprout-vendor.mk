@@ -1865,4 +1865,5 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.servicetracker@1.2-service.xml \
     colorservice \
     com.qti.snapdragon.sdk.display \
-    libqct_resampler
+    libqct_resampler \
+    chargeonlymode
