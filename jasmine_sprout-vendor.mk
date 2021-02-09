@@ -653,6 +653,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib64/hw/gralloc.default.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.default.so \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib64/hw/gralloc.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/gralloc.sdm660.so \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib64/hw/hwcomposer.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/hwcomposer.sdm660.so \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib64/hw/sound_trigger.primary.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/sound_trigger.primary.sdm660.so \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib64/hw/vendor.qti.esepowermanager@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.esepowermanager@1.0-impl.so \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib64/hw/vendor.qti.gnss@3.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.gnss@3.0-impl.so \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so \
